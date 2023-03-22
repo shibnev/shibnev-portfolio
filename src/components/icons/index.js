@@ -1,0 +1,1 @@
+export { HhIcon } from './HhIcon';
